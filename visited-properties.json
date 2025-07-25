@@ -1,0 +1,687 @@
+{
+  "https://www.steavycarter.com/property/tx/75034/frisco/cheyenne-village-ph-one/6067-chippewa-trail/6883fc4d1d8ef2632436c344/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76116/fort-worth/ridglea-north-add/6453-drury-lane/6883fc4d1d8ef2632436c2f6/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75862/trinity/lake-l-acres-sec-b/177-tic-toc-lane/6883fc4d1d8ef2632436c272/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75219/dallas/boxtree-condos/4633-fairmount-street-unit-211/6883fc4d1d8ef2632436c247/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/w-r-thomasson-of-bellevue-e-o/1225-elm-street/6883fc4d1d8ef2632436c231/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76071/newark/estes-add/243-county-road-4851/6883fc4d1d8ef2632436c241/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76078/rhome/highland-meadows/834-audra-circle/6883fc4d1d8ef2632436c235/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75216/dallas/central-ave/4647-cherbourg-street/6883fc271d8ef2632436b44d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75092/sherman/shannon-w-m-suppl/225-w-texas-street/6883fc271d8ef2632436b412/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76664/mart/shannon-add/201-s-goddard-street/6883fc271d8ef2632436b3fc/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75021/denison/highland-view/990-s-6th-unit-992/6883fc261d8ef2632436b3cb/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75219/dallas/river-oaks-condos/4859-cedar-springs-road-unit-150/6883fc271d8ef2632436b401/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76636/covington/john-m-mccarter-surv-abs-555/296-hcr-1424/6883fc261d8ef2632436b34e/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76051/grapevine/oak-creek-estate-grapevine/2923-wentwood-drive/6883fc261d8ef2632436b317/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75072/mckinney/fairway-village/1200-pecan-valley-drive/6883fc261d8ef2632436b2d6/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75418/bonham/a1018-j-p-simpson/404-s-main/6883fc261d8ef2632436b25c/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75074/plano/royal-oaks/2704-countess-drive/6883fc261d8ef2632436b267/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76230/bowie/allsups-state-highway-59/802-old-wise-road-unit-23/6883fc261d8ef2632436b213/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75062/irving/quail-run-condo/4539-n-o-connor-road-unit-2234/6883fc261d8ef2632436b175/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75149/mesquite/east-glen-ph-i-a-rep/502-oxbow-street/6883fc261d8ef2632436b10e/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76092/southlake/timber-lake-add/605-winding-creek-court/6883fc261d8ef2632436b13b/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76230/bowie/allsups-state-highway-59/802-old-wise-road-unit-22/6883fc261d8ef2632436b0be/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79842/no-city/anderson/305-s-lee-street/6883fc251d8ef2632436b0af/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76230/bowie/allsups-state-highway-59/802-old-wise-road-unit-21/6883fc251d8ef2632436b0ab/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75074/plano/village-north-3/3313-tarkio-road/6883fc251d8ef2632436b01c/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75234/farmers-branch/dutch-village-02/2949-hollandale-lane/6883fc241d8ef2632436af8d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76015/arlington/dorchester-place-add/1318-paisley-drive/6883f6a51d8ef2632432249d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75074/plano/plano-gateway-ph-1/341-blackthorne-drive/6883f6a51d8ef26324322484/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75248/dallas/richardson-heights-estates-west-re/7511-la-avenida-drive/6883f6a51d8ef2632432247d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75060/irving/meadows/2213-meadow-lark/6883f6a51d8ef26324322453/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76034/colleyville/woodbriar-estates-west-add/118-w-greenbriar-lane/6883f6a51d8ef26324322432/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/trailwood-01/2110-butterfield-trail/6883f6a41d8ef26324322415/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75407/princeton/brookside-ph-2/535-deer-canyon-way/6883f6a41d8ef2632432240a/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76087/weatherford/canyon-west-ph-iii/150-top-flight-drive/6883f6a41d8ef263243223f8/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76063/mansfield/ridge-trace-mansfield/1802-clear-summit-lane/6883f6a41d8ef26324322400/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76642/groesbeck/sgr/918-w-angeline-street/6883f6a41d8ef263243223c3/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76655/lorena/rosenthal-estates/301-boots-court/6883f6a41d8ef263243223c4/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76119/forest-hill/highland-forest-add/3612-grady-street/6883f6a41d8ef263243223ce/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76088/weatherford/pioneer-crossing-pc/1115-pioneer-crossing/6883f6a41d8ef263243223a4/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76226/northlake/ridge-northlake-ph-1/2805-buckthorn-road/6883f6a41d8ef2632432231b/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75244/dallas/las-colonitas-condo/12816-midway-road-unit-1066/6883f6a31d8ef263243222f2/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76054/hurst/lonesome-dove-estates/3524-texas-trail/6883f6a31d8ef26324322294/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75062/irving/not-applicable/3118-new-haven-street/6883f6a31d8ef26324322285/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76048/granbury/sky-view-acres/2105-w-pearl-street/6883f6a31d8ef2632432226d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75206/dallas/vickery-place/5438-bonita-avenue/6883f6a31d8ef26324322258/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76244/fort-worth/heritage-add/4960-obrien-way/6883f6a31d8ef26324322223/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76655/lorena/rosenthal-estates/233-lasso-loop/6883f6a31d8ef2632432220a/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75007/carrollton/the-palisades-ph-2/1510-palisades-drive/6883f6a31d8ef2632432220f/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75092/sherman/western-hills-add/1004-western-hills-drive/6883f6a31d8ef263243221fc/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76109/fort-worth/royale-orleans-north-condo/4420-harlanwood-drive-unit-232/6883f6a21d8ef263243221c8/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75071/mckinney/high-pointe-ph-6c/2824-cliffview-drive/6883f6a21d8ef263243221bb/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76063/mansfield/antigua-iv-add/803-manchester-drive/6883f6a21d8ef26324322191/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75075/plano/collin-creek/948-concan-drive/6883f6a21d8ef26324322164/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75243/dallas/hamilton-park-02/12133-hoblitzelle-drive/6883f6a21d8ef26324322140/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76043/glen-rose/rock-rdg-estates-ph-i/105-hall-street/6883f6a21d8ef26324322132/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75020/denison/gateway-village-the-reserve-45ft-lots/5141-westhaven-circle/6883f6a21d8ef26324322117/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75090/sherman/bay-meadows-add/754-patricia-drive/6883f6a21d8ef2632432210e/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75126/forney/amber-fields-windmill-farms-p/2100-rose-may-drive/6883f6a21d8ef26324322139/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76247/justin/reatta-ridge-ph-4/319-ranch-road/6883f6a21d8ef263243220df/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75093/plano/the-hills-at-prestonwood-vii/2804-crooked-stick-drive/6883f6a21d8ef26324322108/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75424/blue-ridge/north-ridge-estates-ph-ii/209-hilltop-circle/6883f6a11d8ef263243220b4/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76043/glen-rose/rock-rdg-estates/103-hall-street/6883f64a1d8ef26324321534/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76179/fort-worth/boswell-meadows/8653-hawkview-drive/6883f64a1d8ef2632432152d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76108/fort-worth/live-oak-crk-ph-3b/11745-dixon-drive/6883f64a1d8ef26324321508/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75126/forney/devonshire-village-13a/1314-buttermere-street/6883f6491d8ef263243214ba/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75071/mckinney/retreat-at-honey-creek/3209-turkey-trot-lane/6883f6491d8ef263243214a9/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75189/royse-city/magnolia-ph-8/1406-old-trail-road/6883f6491d8ef263243214b0/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75006/carrollton/trafalgar-square-ph-3/3222-stonehenge-lane/6883f6491d8ef263243214e9/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75773/mineola/none/303-county-road-2310/6883f6491d8ef26324321499/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76621/abbott/leon-co-school-land/150-private-road-311/6883f6491d8ef263243214d9/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76088/weatherford/saddlecrest-estates/lot-32-hackamore-court/6883f6491d8ef263243214d7/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79606/abilene/country-village/5173-western-plains-avenue/6883f6481d8ef2632432141d/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76655/lorena/rosenthal-estates/231-lasso-loop/6883f6481d8ef263243213fd/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76065/midlothian/bridgewater-phase-1a/2030-slipchannel-street/6883f6481d8ef2632432135e/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75042/garland/golden-meadows-02/1425-crockett-street/6883f6471d8ef26324321233/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75021/denison/highland-view/990-s-6th-avenue-unit-990/6883f6461d8ef263243211b5/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75704/tyler/greenland-hills-lot-93/12864-morningside-drive/6883f6461d8ef26324321114/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75152/palmer/r-pena/2020-neck-road/6883f6451d8ef263243210d4/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75783/quitman/none/1054-county-road-4116/6883f09b1d8ef263242facd9/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75126/forney/heartland-ph-8/3458-gypsum-court/6883f09b1d8ef263242faca8/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76131/fort-worth/watersbend-south/9413-firedog-drive/6883f09b1d8ef263242faca1/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76082/springtown/oak-meadows/817-highland-circle/6883f09b1d8ef263242fac48/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76471/rising-star/none/2018-cr-254/6883f09b1d8ef263242fac23/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/101-dotty-lou/6883f09b1d8ef263242fac18/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76082/springtown/salt-creek-unrec/202-salt-creek-road/6883f09b1d8ef263242fabbf/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/149-dotty-lou/6883f09b1d8ef263242fabc4/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76655/waco/park-meadows/11433-patera-street/6883f09a1d8ef263242fab2c/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/125-dotty-lou/6883f09b1d8ef263242fab43/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/west-shore-at-joe-pool-lake/2708-lake-country-drive/6883f09a1d8ef263242fab25/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/201-dotty-lou/6883f09a1d8ef263242fab12/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/162-dotty-lou/6883f09a1d8ef263242faaf7/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/214-dotty-lou/6883f09a1d8ef263242faa6f/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/167-dotty-lou/6883f09a1d8ef263242faa08/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/138-dotty-lou/6883f09a1d8ef263242faa07/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/119-dotty-lou/6883f09a1d8ef263242fa98a/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/hulen-meadow-add/4125-brookway-drive/6883f09a1d8ef263242fa988/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/220-dotty-lou/6883f09a1d8ef263242fa8b5/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/144-dotty-lou/6883f09a1d8ef263242fa8ca/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/75418/bonham/reich-addn-block-3-lot-pt-of-2/219-s-main/6883f09a1d8ef263242fa8aa/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/126-dotty-lou/6883f09a1d8ef263242fa84e/": "2025-07-25",
+  "https://www.steavycarter.com/property/tx/76226/argyle/lakes-of-argyle-phas/272-craig-court/688402ef1d8ef2632438e232/": {
+    "discoveredAt": "2025-07-25T22:58:36.336Z"
+  },
+  "https://www.steavycarter.com/property/tx/75409/anna/james-fisher-survey/8685-fm-1827/688402ef1d8ef2632438e1f8/": {
+    "discoveredAt": "2025-07-25T22:58:37.529Z"
+  },
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/rainbow-ridge-add/9168-abaco-way/6852aebe1d8ef26324ee0380/": {
+    "discoveredAt": "2025-07-25T22:58:39.816Z"
+  },
+  "https://www.steavycarter.com/property/tx/76063/mansfield/cresson-ranch/2300-jessica-drive/688402ef1d8ef2632438e1d6/": {
+    "discoveredAt": "2025-07-25T22:58:41.218Z"
+  },
+  "https://www.steavycarter.com/property/tx/75115/desoto/elerson-ranch-ph-03/912-danbury-drive/688402ef1d8ef2632438e196/": {
+    "discoveredAt": "2025-07-25T22:58:43.909Z"
+  },
+  "https://www.steavycarter.com/property/tx/75230/dallas/hollows-north-condo/10530-stone-canyon-road-unit-208/688402ee1d8ef2632438e16a/": {
+    "discoveredAt": "2025-07-25T22:58:47.849Z"
+  },
+  "https://www.steavycarter.com/property/tx/75082/richardson/heather-ridge-estates/2712-cherry-court/688402ee1d8ef2632438e152/": {
+    "discoveredAt": "2025-07-25T22:58:51.669Z"
+  },
+  "https://www.steavycarter.com/property/tx/75013/allen/whis-lynge-hill-add-1/608-hefner-drive/688402ee1d8ef2632438e127/": {
+    "discoveredAt": "2025-07-25T22:58:53.978Z"
+  },
+  "https://www.steavycarter.com/property/tx/75424/blue-ridge/ben-bland-survey/20-acres-tbd-county-road-825/688402ee1d8ef2632438e118/": {
+    "discoveredAt": "2025-07-25T22:58:56.646Z"
+  },
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/trailhead-at-chisholm-trail-ranch/9301-brewer-boulevard-unit-4220/688402ee1d8ef2632438e0fe/": {
+    "discoveredAt": "2025-07-25T22:58:58.294Z"
+  },
+  "https://www.steavycarter.com/property/tx/75040/garland/village-glen-02/720-camilla-lane/688402ee1d8ef2632438e0e4/": {
+    "discoveredAt": "2025-07-25T22:59:00.620Z"
+  },
+  "https://www.steavycarter.com/property/tx/75407/princeton/the-haven-at-tillage-farms/926-sandhill-crane-lane/688402ee1d8ef2632438e0d6/": {
+    "discoveredAt": "2025-07-25T22:59:02.927Z"
+  },
+  "https://www.steavycarter.com/property/tx/75248/dallas/prestonwood-estates/6810-harvest-glen-drive/688402ee1d8ef2632438e0ab/": {
+    "discoveredAt": "2025-07-25T22:59:04.665Z"
+  },
+  "https://www.steavycarter.com/property/tx/76051/grapevine/box-d-e-add/826-e-texas-street/688402ee1d8ef2632438e045/": {
+    "discoveredAt": "2025-07-25T22:59:06.749Z"
+  },
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/trailhead-at-chisholm-trail-ranch/9301-brewer-boulevard-unit-4212/688402ed1d8ef2632438dff6/": {
+    "discoveredAt": "2025-07-25T22:59:08.058Z"
+  },
+  "https://www.steavycarter.com/property/tx/76048/granbury/oak-trail-shores-sec-f/3011-mistletoe-street/688402bb1d8ef2632438d138/": {
+    "discoveredAt": "2025-07-25T22:59:10.935Z"
+  },
+  "https://www.steavycarter.com/property/tx/75240/dallas/parkwood-creek-condos/8545-midpark-road-unit-10/688402921d8ef2632438cb28/": {
+    "discoveredAt": "2025-07-25T22:59:12.420Z"
+  },
+  "https://www.steavycarter.com/property/tx/75208/dallas/winnetka-heights/322-s-montclair-avenue/688402921d8ef2632438ca97/": {
+    "discoveredAt": "2025-07-25T22:59:15.635Z"
+  },
+  "https://www.steavycarter.com/property/tx/75009/celina/enclave-at-legacy-hills/2416-woodhall-drive/688402631d8ef2632438c0b0/": {
+    "discoveredAt": "2025-07-25T22:59:18.110Z"
+  },
+  "https://www.steavycarter.com/property/tx/75244/dallas/hyde-park-estates/4625-willow-lane/688402631d8ef2632438c065/": {
+    "discoveredAt": "2025-07-25T22:59:21.986Z"
+  },
+  "https://www.steavycarter.com/property/tx/76033/cleburne/ph-19-the-retreat-sub/8504-w-shetland-court/688402611d8ef2632438be31/": {
+    "discoveredAt": "2025-07-25T22:59:24.829Z"
+  },
+  "https://www.steavycarter.com/property/tx/75205/university-park/granada-twnhms/3552-granada-avenue-unit-b/6884023a1d8ef2632438b443/": {
+    "discoveredAt": "2025-07-25T22:59:26.171Z"
+  },
+  "https://www.steavycarter.com/property/tx/76248/keller/kelly-c-addition/801-helen-street/6884023a1d8ef2632438b436/": {
+    "discoveredAt": "2025-07-25T22:59:28.045Z"
+  },
+  "https://www.steavycarter.com/property/tx/75243/dallas/creekbend-condos-ph-i-vi/12480-abrams-road-unit-208/6884023a1d8ef2632438b434/": {
+    "discoveredAt": "2025-07-25T22:59:33.720Z"
+  },
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/trailhead-at-chisholm-trail-ranch/9301-brewer-boulevard-unit-1305/688402391d8ef2632438b406/": {
+    "discoveredAt": "2025-07-25T22:59:36.025Z"
+  },
+  "https://www.steavycarter.com/property/tx/75024/plano/villas-at-legacy-west-add/7866-element-avenue/688402391d8ef2632438b3ef/": {
+    "discoveredAt": "2025-07-25T22:59:37.611Z"
+  },
+  "https://www.steavycarter.com/property/tx/76108/fort-worth/vista-west/1001-long-pointe-avenue/688402391d8ef2632438b367/": {
+    "discoveredAt": "2025-07-25T22:59:38.757Z"
+  },
+  "https://www.steavycarter.com/property/tx/75035/frisco/richwoods-ph-six/14109-katiliz-place/688402391d8ef2632438b350/": {
+    "discoveredAt": "2025-07-25T22:59:42.984Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/estates-of-verona-ph-2/8616-tuscan-oaks-drive/688402381d8ef2632438b33b/": {
+    "discoveredAt": "2025-07-25T22:59:48.652Z"
+  },
+  "https://www.steavycarter.com/property/tx/75009/celina/the-heights-at-uptown/504-callum-parkway/688402381d8ef2632438b318/": {
+    "discoveredAt": "2025-07-25T22:59:58.947Z"
+  },
+  "https://www.steavycarter.com/property/tx/76052/fort-worth/emerald-park-add/11064-hawks-landing-road/688402381d8ef2632438b2f3/": {
+    "discoveredAt": "2025-07-25T23:00:03.254Z"
+  },
+  "https://www.steavycarter.com/property/tx/75414/bells/g-0843-mccarley-robert-a-g0843/122-roy-ayres-road/688402381d8ef2632438b2e8/": {
+    "discoveredAt": "2025-07-25T23:00:05.194Z"
+  },
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/trailhead-at-chisholm-trail-ranch/9301-brewer-boulevard-unit-1209/688402381d8ef2632438b2de/": {
+    "discoveredAt": "2025-07-25T23:00:07.332Z"
+  },
+  "https://www.steavycarter.com/property/tx/76048/granbury/oak-trail-shores/2917-cedarbrush-st/688402381d8ef2632438b2d5/": {
+    "discoveredAt": "2025-07-25T23:00:09.114Z"
+  },
+  "https://www.steavycarter.com/property/tx/76133/fort-worth/wilshire-add/3416-w-gambrell-street/688402381d8ef2632438b286/": {
+    "discoveredAt": "2025-07-25T23:00:10.521Z"
+  },
+  "https://www.steavycarter.com/property/tx/75252/dallas/preston-highlands-ph-iv/6808-lovington-drive/688402381d8ef2632438b23e/": {
+    "discoveredAt": "2025-07-25T23:00:12.078Z"
+  },
+  "https://www.steavycarter.com/property/tx/75491/whitewright/forest-glen/335-county-road-4524/688402371d8ef2632438b1b9/": {
+    "discoveredAt": "2025-07-25T23:00:13.391Z"
+  },
+  "https://www.steavycarter.com/property/tx/75070/mckinney/stone-hollow-add-ph-one/6900-san-juan-trail/688402371d8ef2632438b19d/": {
+    "discoveredAt": "2025-07-25T23:00:16.963Z"
+  },
+  "https://www.steavycarter.com/property/tx/75189/royse-city/estates-of-quail-ridge/716-rowdy-drive/688402361d8ef2632438b0e5/": {
+    "discoveredAt": "2025-07-25T23:00:19.171Z"
+  },
+  "https://www.steavycarter.com/property/tx/76123/fort-worth/trailhead-at-chisholm-trail-ranch/9301-brewer-boulevard-unit-6202/688402361d8ef2632438b0cc/": {
+    "discoveredAt": "2025-07-25T23:00:21.133Z"
+  },
+  "https://www.steavycarter.com/property/tx/75206/dallas/monticello-crossroads-condo-ph-01-03/5200-martel-avenue-unit-27b/688402361d8ef2632438b0b2/": {
+    "discoveredAt": "2025-07-25T23:00:22.936Z"
+  },
+  "https://www.steavycarter.com/property/tx/75021/denison/nagle-kniffin/419-e-elm-street-unit-421/688402361d8ef2632438b099/": {
+    "discoveredAt": "2025-07-25T23:00:24.344Z"
+  },
+  "https://www.steavycarter.com/property/tx/76040/euless/morrisdale-additon/1408-pebble-creek/688402361d8ef2632438b071/": {
+    "discoveredAt": "2025-07-25T23:00:26.370Z"
+  },
+  "https://www.steavycarter.com/property/tx/75035/frisco/hunters-creek-ph-3/15443-forest-haven-lane/688402361d8ef2632438b069/": {
+    "discoveredAt": "2025-07-25T23:00:29.476Z"
+  },
+  "https://www.steavycarter.com/property/tx/76209/denton/towne-north-3/3904-redstone-road/688402361d8ef2632438b035/": {
+    "discoveredAt": "2025-07-25T23:00:32.409Z"
+  },
+  "https://www.steavycarter.com/property/tx/76028/burleson/hillery-heights/408-nw-douglas-street/688401ce1d8ef26324388b1e/": {
+    "discoveredAt": "2025-07-25T23:00:35.727Z"
+  },
+  "https://www.steavycarter.com/property/tx/76642/groesbeck/scharff-add/918-s-ellis-street/688401ce1d8ef26324388b15/": {
+    "discoveredAt": "2025-07-25T23:00:38.008Z"
+  },
+  "https://www.steavycarter.com/property/tx/76134/fort-worth/winchester-park/1100-whittenburg-drive/688401ce1d8ef26324388b0c/": {
+    "discoveredAt": "2025-07-25T23:00:40.344Z"
+  },
+  "https://www.steavycarter.com/property/tx/75754/ben-wheeler/na/796-vzcr-4602/688401ce1d8ef26324388b11/": {
+    "discoveredAt": "2025-07-25T23:00:41.430Z"
+  },
+  "https://www.steavycarter.com/property/tx/75409/anna/anna-crossing-ph-7/516-maverick-street/688401ce1d8ef26324388aed/": {
+    "discoveredAt": "2025-07-25T23:00:44.962Z"
+  },
+  "https://www.steavycarter.com/property/tx/76664/mart/watson-add/1509-e-texas-avenue/688401ce1d8ef26324388b08/": {
+    "discoveredAt": "2025-07-25T23:00:46.597Z"
+  },
+  "https://www.steavycarter.com/property/tx/76706/robinson/robinson-ot/206-w-foster-drive/688401ce1d8ef26324388b94/": {
+    "discoveredAt": "2025-07-25T23:00:48.961Z"
+  },
+  "https://www.steavycarter.com/property/tx/76016/arlington/rushmoor-add/2623-crestmoor-court/688401ce1d8ef26324388ac6/": {
+    "discoveredAt": "2025-07-25T23:00:52.243Z"
+  },
+  "https://www.steavycarter.com/property/tx/75209/dallas/lovers-lane-condos-ph-01-04/4800-w-lovers-lane-unit-212/688401ce1d8ef26324388bc3/": {
+    "discoveredAt": "2025-07-25T23:00:53.614Z"
+  },
+  "https://www.steavycarter.com/property/tx/75789/troup/vining/22-w-twin-creeks-trail/688401ce1d8ef26324388ad4/": {
+    "discoveredAt": "2025-07-25T23:00:54.680Z"
+  },
+  "https://www.steavycarter.com/property/tx/75043/garland/windridge-01-rep/3318-sunrise-drive/688401ce1d8ef26324388ab9/": {
+    "discoveredAt": "2025-07-25T23:00:57.230Z"
+  },
+  "https://www.steavycarter.com/property/tx/76712/waco/creekside-addition-ph-v/10017-braided-briar-drive/688401ce1d8ef26324388a96/": {
+    "discoveredAt": "2025-07-25T23:01:00.164Z"
+  },
+  "https://www.steavycarter.com/property/tx/75110/corsicana/wolf-ranch-1/tract-2-lyman-t-davis-road/6883fc4d1d8ef2632436c237/": {
+    "discoveredAt": "2025-07-25T23:01:02.715Z"
+  },
+  "https://www.steavycarter.com/property/tx/75067/lewisville/diamond-hill-estates-ph-2/1416-ross-drive/6884085b1d8ef263243ad7cf/": {
+    "discoveredAt": "2025-07-25T23:04:37.587Z"
+  },
+  "https://www.steavycarter.com/property/tx/75093/plano/stonewood-glen-ph-three/4017-saltburn-drive/6884085a1d8ef263243ad767/": {
+    "discoveredAt": "2025-07-25T23:04:40.524Z"
+  },
+  "https://www.steavycarter.com/property/tx/75104/grand-prairie/lake-ridge-sec-10-ii/860-bentwater-parkway/68579b5e1d8ef26324e158a1/": {
+    "discoveredAt": "2025-07-25T23:04:43.514Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/erwin-farms-ph-1/3708-valachian-circle/6884085a1d8ef263243ad766/": {
+    "discoveredAt": "2025-07-25T23:04:45.402Z"
+  },
+  "https://www.steavycarter.com/property/tx/75494/winnsboro/oak-terrace-add/805-circle-drive/6884085a1d8ef263243ad6b0/": {
+    "discoveredAt": "2025-07-25T23:04:47.296Z"
+  },
+  "https://www.steavycarter.com/property/tx/76016/arlington/lake-arl-highlands-add/2416-jewell-drive/6884085a1d8ef263243ad65b/": {
+    "discoveredAt": "2025-07-25T23:04:48.899Z"
+  },
+  "https://www.steavycarter.com/property/tx/75209/dallas/webster-woods-northpark/6906-webster-street/688408591d8ef263243ad602/": {
+    "discoveredAt": "2025-07-25T23:04:50.273Z"
+  },
+  "https://www.steavycarter.com/property/tx/75040/garland/third-replat-centerville-duple/1970-timber-oaks-drive/688408591d8ef263243ad5cb/": {
+    "discoveredAt": "2025-07-25T23:04:52.311Z"
+  },
+  "https://www.steavycarter.com/property/tx/75032/rockwall/watersedge-at-lake-ray-hubbard/2016-portofino-drive/688408591d8ef263243ad596/": {
+    "discoveredAt": "2025-07-25T23:04:54.189Z"
+  },
+  "https://www.steavycarter.com/property/tx/75075/plano/collin-creek/817-ash-road/688408591d8ef263243ad580/": {
+    "discoveredAt": "2025-07-25T23:04:57.254Z"
+  },
+  "https://www.steavycarter.com/property/tx/76226/argyle/harvest-ph-2a/813-fenceline-drive/688408591d8ef263243ad55f/": {
+    "discoveredAt": "2025-07-25T23:05:01.806Z"
+  },
+  "https://www.steavycarter.com/property/tx/75238/dallas/highlands/10939-mccree-road/688408591d8ef263243ad531/": {
+    "discoveredAt": "2025-07-25T23:05:07.278Z"
+  },
+  "https://www.steavycarter.com/property/tx/75023/plano/prairie-creek-estates-3/3020-landershire-lane/6884083a1d8ef263243ac4f4/": {
+    "discoveredAt": "2025-07-25T23:05:10.667Z"
+  },
+  "https://www.steavycarter.com/property/tx/75287/dallas/meadow-glen-ph-2a/17703-knollmeadow-lane/688408391d8ef263243ac493/": {
+    "discoveredAt": "2025-07-25T23:05:12.516Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/highland-lakes/4200-gladewater-avenue/688408391d8ef263243ac44f/": {
+    "discoveredAt": "2025-07-25T23:05:15.247Z"
+  },
+  "https://www.steavycarter.com/property/tx/76028/burleson/tarrant/312-sw-gamble-street/688408391d8ef263243ac436/": {
+    "discoveredAt": "2025-07-25T23:05:19.590Z"
+  },
+  "https://www.steavycarter.com/property/tx/76463/mingus/legends-of-comanche-moon-phase-i/1-rivertrail-circle/688408391d8ef263243ac42a/": {
+    "discoveredAt": "2025-07-25T23:05:23.262Z"
+  },
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/cadia-grand-prairie/3950-dechman-drive-unit-4038/688408391d8ef263243ac3f5/": {
+    "discoveredAt": "2025-07-25T23:05:29.928Z"
+  },
+  "https://www.steavycarter.com/property/tx/75704/tyler/wellington-place/682-princess-place/688408391d8ef263243ac3da/": {
+    "discoveredAt": "2025-07-25T23:05:36.568Z"
+  },
+  "https://www.steavycarter.com/property/tx/76137/fort-worth/parkwood-estates-add/5420-platte-place/688408391d8ef263243ac3c1/": {
+    "discoveredAt": "2025-07-25T23:05:46.055Z"
+  },
+  "https://www.steavycarter.com/property/tx/76088/weatherford/h-lehmeberg-surv-abs-2322/510-green-acres-road/688408391d8ef263243ac397/": {
+    "discoveredAt": "2025-07-25T23:05:51.791Z"
+  },
+  "https://www.steavycarter.com/property/tx/75401/greenville/college-hill-add/4517-henry-street/688408381d8ef263243ac35d/": {
+    "discoveredAt": "2025-07-25T23:05:58.773Z"
+  },
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/cadia-grand-prairie/3950-dechman-drive-unit-4022/688408381d8ef263243ac2ef/": {
+    "discoveredAt": "2025-07-25T23:06:01.295Z"
+  },
+  "https://www.steavycarter.com/property/tx/76226/northlake/canyon-falls-village-w2-ph/1413-tanglewood-trail/688408381d8ef263243ac2df/": {
+    "discoveredAt": "2025-07-25T23:06:04.833Z"
+  },
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/cadia-grand-prairie/3950-dechman-drive-unit-2015/688408381d8ef263243ac277/": {
+    "discoveredAt": "2025-07-25T23:06:07.280Z"
+  },
+  "https://www.steavycarter.com/property/tx/75204/dallas/latour-condo/3030-mckinney-avenue-unit-502/688408381d8ef263243ac27f/": {
+    "discoveredAt": "2025-07-25T23:06:08.677Z"
+  },
+  "https://www.steavycarter.com/property/tx/76126/benbrook/benbrook-estates-add/132-san-saba-avenue/688408381d8ef263243ac261/": {
+    "discoveredAt": "2025-07-25T23:06:09.896Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/estates-of-verona-ph-2/8616-tuscan-oaks-drive/688408381d8ef263243ac247/": {
+    "discoveredAt": "2025-07-25T23:06:12.938Z"
+  },
+  "https://www.steavycarter.com/property/tx/75072/mckinney/reserve-at-westridge-ph-7-the/10637-musketball-place/688408381d8ef263243ac250/": {
+    "discoveredAt": "2025-07-25T23:06:15.140Z"
+  },
+  "https://www.steavycarter.com/property/tx/75056/the-colony/colony-26/6808-fryer-street/688408371d8ef263243ac1cc/": {
+    "discoveredAt": "2025-07-25T23:06:17.768Z"
+  },
+  "https://www.steavycarter.com/property/tx/75219/dallas/university-place/4000-hawthorne-avenue-unit-08/688408371d8ef263243ac1e4/": {
+    "discoveredAt": "2025-07-25T23:06:21.251Z"
+  },
+  "https://www.steavycarter.com/property/tx/75061/irving/blaylock-02/1008-s-blaylock-circle/688408371d8ef263243ac17b/": {
+    "discoveredAt": "2025-07-25T23:06:24.088Z"
+  },
+  "https://www.steavycarter.com/property/tx/75150/mesquite/willow-glen2/3313-willowglen-drive/688408371d8ef263243ac17f/": {
+    "discoveredAt": "2025-07-25T23:06:25.773Z"
+  },
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/cadia-grand-prairie/3950-dechman-drive-unit-3018/688408371d8ef263243ac161/": {
+    "discoveredAt": "2025-07-25T23:06:27.190Z"
+  },
+  "https://www.steavycarter.com/property/tx/75057/lewisville/northside/1585-n-mill-street-unit-6/688402ef1d8ef2632438e222/": {
+    "discoveredAt": "2025-07-25T23:06:28.346Z"
+  },
+  "https://www.steavycarter.com/property/tx/75142/kaufman/allen/306-n-wilson-street/688402ef1d8ef2632438e217/": {
+    "discoveredAt": "2025-07-25T23:06:30.876Z"
+  },
+  "https://www.steavycarter.com/property/tx/75006/carrollton/two-worlds-keller-spgs-village-sec/2618-via-los-altos/6883fc4d1d8ef2632436c2d0/": {
+    "discoveredAt": "2025-07-25T23:06:32.367Z"
+  },
+  "https://www.steavycarter.com/property/tx/76033/cleburne/original-cleburn/104-s-pendell-avenue/6883f0991d8ef263242fa77c/": {
+    "discoveredAt": "2025-07-25T23:16:32.614Z"
+  },
+  "https://www.steavycarter.com/property/tx/76052/haslet/watercress-ph-2/518-syracuse-street/6883f0491d8ef263242f833a/": {
+    "discoveredAt": "2025-07-25T23:16:33.977Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/168-dotty-lou/6883f0491d8ef263242f8335/": {
+    "discoveredAt": "2025-07-25T23:16:35.575Z"
+  },
+  "https://www.steavycarter.com/property/tx/76655/waco/park-meadows/11425-patera-street/6883f0491d8ef263242f8331/": {
+    "discoveredAt": "2025-07-25T23:16:39.216Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/155-dotty-lou/6883f0491d8ef263242f8317/": {
+    "discoveredAt": "2025-07-25T23:16:42.263Z"
+  },
+  "https://www.steavycarter.com/property/tx/75035/frisco/queens-gate-1/7443-glasshouse-walk/6883f0491d8ef263242f831c/": {
+    "discoveredAt": "2025-07-25T23:16:45.018Z"
+  },
+  "https://www.steavycarter.com/property/tx/75093/plano/highlands-north-phase-v-cpl/4309-hanover-court/6883f0491d8ef263242f8312/": {
+    "discoveredAt": "2025-07-25T23:16:49.967Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/120-dotty-lou/6883f0491d8ef263242f82fe/": {
+    "discoveredAt": "2025-07-25T23:17:01.158Z"
+  },
+  "https://www.steavycarter.com/property/tx/79601/abilene/waterside-at-cedar-creek/207-dotty-lou/6883f0491d8ef263242f82eb/": {
+    "discoveredAt": "2025-07-25T23:17:06.033Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/107-dotty-lou/6883f0491d8ef263242f82c6/": {
+    "discoveredAt": "2025-07-25T23:17:08.396Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/156-dotty-lou/6883f0491d8ef263242f82bb/": {
+    "discoveredAt": "2025-07-25T23:17:10.750Z"
+  },
+  "https://www.steavycarter.com/property/tx/75401/greenville/orig-town-of-greenville/1709-wright-street/6883f0491d8ef263242f82be/": {
+    "discoveredAt": "2025-07-25T23:17:12.290Z"
+  },
+  "https://www.steavycarter.com/property/tx/75028/flower-mound/westchester-flower-mound-2/2828-chelsea-lane/6883f0491d8ef263242f82d8/": {
+    "discoveredAt": "2025-07-25T23:17:14.676Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/131-dotty-lou/6883f0481d8ef263242f829a/": {
+    "discoveredAt": "2025-07-25T23:17:18.529Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/preserve-at-honey-creek/1628-baugh-street/6883f0481d8ef263242f828e/": {
+    "discoveredAt": "2025-07-25T23:17:22.870Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/132-dotty-lou/6883f0481d8ef263242f8289/": {
+    "discoveredAt": "2025-07-25T23:17:27.783Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/161-dotty-lou/6883f0481d8ef263242f826b/": {
+    "discoveredAt": "2025-07-25T23:17:34.156Z"
+  },
+  "https://www.steavycarter.com/property/tx/75002/lucas/lakeview-downs/1360-driftwood-lane/6883f0481d8ef263242f8269/": {
+    "discoveredAt": "2025-07-25T23:17:36.549Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/king-lake-estates/1201-gray-branch-road/6883f0481d8ef263242f8239/": {
+    "discoveredAt": "2025-07-25T23:17:38.027Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/208-dotty-lou/6883f0481d8ef263242f8219/": {
+    "discoveredAt": "2025-07-25T23:17:40.095Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/150-dotty-lou/6883f0481d8ef263242f820f/": {
+    "discoveredAt": "2025-07-25T23:17:43.522Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/213-dotty-lou/6883f0481d8ef263242f81f2/": {
+    "discoveredAt": "2025-07-25T23:17:46.012Z"
+  },
+  "https://www.steavycarter.com/property/tx/76051/grapevine/silver-lake-estates-add/800-spring-creek-drive/6883f0481d8ef263242f8200/": {
+    "discoveredAt": "2025-07-25T23:17:47.607Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/137-dotty-lou/6883f0481d8ef263242f81ea/": {
+    "discoveredAt": "2025-07-25T23:17:49.318Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/113-dotty-lou/6883f0481d8ef263242f81df/": {
+    "discoveredAt": "2025-07-25T23:17:51.183Z"
+  },
+  "https://www.steavycarter.com/property/tx/75205/university-park/armstrong-fairway-2nd-inst/4437-larchmont-street/6883f0481d8ef263242f81d4/": {
+    "discoveredAt": "2025-07-25T23:17:54.004Z"
+  },
+  "https://www.steavycarter.com/property/tx/76177/fort-worth/oak-creek-trails/2509-open-range-drive/6883f0481d8ef263242f81af/": {
+    "discoveredAt": "2025-07-25T23:17:57.346Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/waterside-at-cedar-creek/202-dotty-lou/6883f0471d8ef263242f819e/": {
+    "discoveredAt": "2025-07-25T23:18:00.990Z"
+  },
+  "https://www.steavycarter.com/property/tx/75110/corsicana/corsicana/609-e-14th-street/6883f0471d8ef263242f8187/": {
+    "discoveredAt": "2025-07-25T23:18:03.978Z"
+  },
+  "https://www.steavycarter.com/property/tx/75089/rowlett/waterview-ph-5c/8505-royal-montreal-drive/6883f0471d8ef263242f817e/": {
+    "discoveredAt": "2025-07-25T23:18:06.491Z"
+  },
+  "https://www.steavycarter.com/property/tx/76655/waco/park-meadows-add-ph-1-b/2725-jackal-drive/6883f0471d8ef263242f812c/": {
+    "discoveredAt": "2025-07-25T23:18:09.716Z"
+  },
+  "https://www.steavycarter.com/property/tx/76525/evant/h-b-gilly/tbd-25-acres-us-84/6883f0471d8ef263242f8147/": {
+    "discoveredAt": "2025-07-25T23:18:11.800Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/retreat-at-honey-creek/3209-barred-owl-way/6883f0471d8ef263242f8118/": {
+    "discoveredAt": "2025-07-25T23:18:14.134Z"
+  },
+  "https://www.steavycarter.com/property/tx/76655/waco/park-meadows/2804-teasdale-road/6883f0471d8ef263242f8114/": {
+    "discoveredAt": "2025-07-25T23:18:15.730Z"
+  },
+  "https://www.steavycarter.com/property/tx/75216/dallas/trinity-heights/1817-w-lakeview-drive/6883f0471d8ef263242f80c2/": {
+    "discoveredAt": "2025-07-25T23:18:19.041Z"
+  },
+  "https://www.steavycarter.com/property/tx/76108/fort-worth/chapel-crk/1816-gibsonville-drive/6883f0461d8ef263242f80ad/": {
+    "discoveredAt": "2025-07-25T23:18:25.303Z"
+  },
+  "https://www.steavycarter.com/property/tx/76471/rising-star/bbbc-40/517-tx-36/6883f0461d8ef263242f80b0/": {
+    "discoveredAt": "2025-07-25T23:18:28.396Z"
+  },
+  "https://www.steavycarter.com/property/tx/76234/decatur/a0454/4170-s-farm-to-market-51/6883f0461d8ef263242f8076/": {
+    "discoveredAt": "2025-07-25T23:18:33.312Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/retreat-at-honey-creek/9121-flowering-dogwood-lane/6883f0461d8ef263242f805f/": {
+    "discoveredAt": "2025-07-25T23:18:39.740Z"
+  },
+  "https://www.steavycarter.com/property/tx/75422/campbell/none/7224-cr-4315/6883f0461d8ef263242f8050/": {
+    "discoveredAt": "2025-07-25T23:18:43.242Z"
+  },
+  "https://www.steavycarter.com/property/tx/75773/mineola/none/00-hwy-69-cr-484/6883f0461d8ef263242f802c/": {
+    "discoveredAt": "2025-07-25T23:18:44.783Z"
+  },
+  "https://www.steavycarter.com/property/tx/76708/waco/sligh-s-j-tr/3317-mitchell-road/6883f0461d8ef263242f8005/": {
+    "discoveredAt": "2025-07-25T23:18:46.967Z"
+  },
+  "https://www.steavycarter.com/property/tx/79603/abilene/northwood/2010-yorktown-drive/6883f0461d8ef263242f7ff9/": {
+    "discoveredAt": "2025-07-25T23:18:48.468Z"
+  },
+  "https://www.steavycarter.com/property/tx/75216/dallas/lea-crest/2117-e-overton-street/6883f0461d8ef263242f7fad/": {
+    "discoveredAt": "2025-07-25T23:18:50.526Z"
+  },
+  "https://www.steavycarter.com/property/tx/75248/dallas/richardson-heights-estates-west-2n/7637-el-pensador-drive/6883f0451d8ef263242f7f99/": {
+    "discoveredAt": "2025-07-25T23:18:53.156Z"
+  },
+  "https://www.steavycarter.com/property/tx/76131/fort-worth/watersbend-south/9413-firedog-drive/6883f0451d8ef263242f7f7d/": {
+    "discoveredAt": "2025-07-25T23:18:55.438Z"
+  },
+  "https://www.steavycarter.com/property/tx/76513/belton/na/9775-fm-1123-highway/6883f0451d8ef263242f7f51/": {
+    "discoveredAt": "2025-07-25T23:18:57.007Z"
+  },
+  "https://www.steavycarter.com/property/tx/75238/dallas/audelia-place/10864-audelia-road-unit-100/6883f0451d8ef263242f7f19/": {
+    "discoveredAt": "2025-07-25T23:18:58.496Z"
+  },
+  "https://www.steavycarter.com/property/tx/75022/flower-mound/wilson-freeman/4401-red-rock-lane/6883eabb1d8ef263242dc0a7/": {
+    "discoveredAt": "2025-07-25T23:19:00.044Z"
+  },
+  "https://www.steavycarter.com/property/tx/76226/lantana/wisteria-add/851-carolina-way/6883eabb1d8ef263242dc050/": {
+    "discoveredAt": "2025-07-25T23:19:02.175Z"
+  },
+  "https://www.steavycarter.com/property/tx/75217/dallas/flowers-add/611-yarrow-circle/6883eaba1d8ef263242dbfb6/": {
+    "discoveredAt": "2025-07-25T23:19:06.052Z"
+  },
+  "https://www.steavycarter.com/property/tx/76401/stephenville/henry-fantharp/397-cr-538/6883eaba1d8ef263242dbf83/": {
+    "discoveredAt": "2025-07-25T23:19:07.717Z"
+  },
+  "https://www.steavycarter.com/property/tx/76655/waco/park-meadows/2816-teasdale-road/6883ea9f1d8ef263242dbc56/": {
+    "discoveredAt": "2025-07-25T23:19:11.361Z"
+  },
+  "https://www.steavycarter.com/property/tx/76248/keller/riverdance/233-park-north-lane/6883ea9f1d8ef263242dbbf8/": {
+    "discoveredAt": "2025-07-25T23:19:14.622Z"
+  },
+  "https://www.steavycarter.com/property/tx/75052/grand-prairie/westchester-west-ph-b/4422-wescott-drive/6883ea9f1d8ef263242dbc05/": {
+    "discoveredAt": "2025-07-25T23:19:16.712Z"
+  },
+  "https://www.steavycarter.com/property/tx/76248/keller/bourland-oaks/808-gentle-wind-drive/6883ea9f1d8ef263242dbbcb/": {
+    "discoveredAt": "2025-07-25T23:19:20.225Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/lacima-haven/7905-craftsbury-lane/6883ea9f1d8ef263242dbbf5/": {
+    "discoveredAt": "2025-07-25T23:19:22.634Z"
+  },
+  "https://www.steavycarter.com/property/tx/75071/mckinney/cambridge-ph-1a/109-joplin-drive/6883ea9f1d8ef263242dbb58/": {
+    "discoveredAt": "2025-07-25T23:19:25.210Z"
+  },
+  "https://www.steavycarter.com/property/tx/75205/highland-park/mount-vernon-heights/3525-normandy-avenue-unit-24/6883ea9f1d8ef263242dbb1c/": {
+    "discoveredAt": "2025-07-25T23:19:28.021Z"
+  },
+  "https://www.steavycarter.com/property/tx/75480/scroggins/twin-cove-estate/115-larsen-lane/6883ea9f1d8ef263242dbaf8/": {
+    "discoveredAt": "2025-07-25T23:19:30.362Z"
+  },
+  "https://www.steavycarter.com/property/tx/76106/fort-worth/belmont-park/2500-nw-20th-street/6883ea9f1d8ef263242dbafb/": {
+    "discoveredAt": "2025-07-25T23:19:33.141Z"
+  },
+  "https://www.steavycarter.com/property/tx/76801/brownwood/john-plunkett/4607-austin-avenue/678ab08e25e378a6b28edf01/": {
+    "discoveredAt": "2025-07-25T23:19:35.683Z"
+  },
+  "https://www.steavycarter.com/property/tx/75189/royse-city/wildwood/611-bluejack-drive/6883ea9e1d8ef263242dba31/": {
+    "discoveredAt": "2025-07-25T23:19:39.108Z"
+  },
+  "https://www.steavycarter.com/property/tx/76028/burleson/heritage-village-ph-1/319-tinker-trail/6883ea9e1d8ef263242dba75/": {
+    "discoveredAt": "2025-07-25T23:19:41.802Z"
+  },
+  "https://www.steavycarter.com/property/tx/75044/garland/arapaho-east/3033-ripplewood-drive/6883ea9e1d8ef263242db9f8/": {
+    "discoveredAt": "2025-07-25T23:19:43.532Z"
+  },
+  "https://www.steavycarter.com/property/tx/75009/celina/brookshire-at-legacy-hills-phase-1/1312-abbott-creek-road/6883ea9e1d8ef263242dba0b/": {
+    "discoveredAt": "2025-07-25T23:19:46.408Z"
+  },
+  "https://www.steavycarter.com/property/tx/76226/bartonville/bbb-crr/tr-23-e-jeter-road/6883ea9e1d8ef263242db952/": {
+    "discoveredAt": "2025-07-25T23:19:49.288Z"
+  },
+  "https://www.steavycarter.com/property/tx/75002/allen/villages-at-maxwell-creek-ph-two/1603-briarhollow-court/6883ea9e1d8ef263242db909/": {
+    "discoveredAt": "2025-07-25T23:19:51.965Z"
+  },
+  "https://www.steavycarter.com/property/tx/79605/abilene/southern-hills-add/2800-sayles-boulevard-unit-04-a/6883ea9e1d8ef263242db8f6/": {
+    "discoveredAt": "2025-07-25T23:19:53.334Z"
+  },
+  "https://www.steavycarter.com/property/tx/79602/abilene/south-fairmont/1623-s-14th-street-unit-c/6883ea9e1d8ef263242db8db/": {
+    "discoveredAt": "2025-07-25T23:19:55.024Z"
+  },
+  "https://www.steavycarter.com/property/tx/75409/anna/northpointe-crossing-ph-3-east/3005-parker-road/6883ea9e1d8ef263242db8ce/": {
+    "discoveredAt": "2025-07-25T23:19:57.468Z"
+  },
+  "https://www.steavycarter.com/property/tx/75040/garland/northlake-estates/1669-morrison-drive/6883ea9d1d8ef263242db869/": {
+    "discoveredAt": "2025-07-25T23:19:59.984Z"
+  },
+  "https://www.steavycarter.com/property/tx/75092/sherman/th-will-abst-1209/3234-w-lamberth-road/6883ea9d1d8ef263242db829/": {
+    "discoveredAt": "2025-07-25T23:20:01.781Z"
+  },
+  "https://www.steavycarter.com/property/tx/75791/whitehouse/forestdale-add-u-2/1800-jessica-drive/6883ea9d1d8ef263242db80a/": {
+    "discoveredAt": "2025-07-25T23:20:08.476Z"
+  },
+  "https://www.steavycarter.com/property/tx/79603/abilene/arthel-henson/1418-kirkwood-street/6883ea9d1d8ef263242db82e/": {
+    "discoveredAt": "2025-07-25T23:20:11.774Z"
+  },
+  "https://www.steavycarter.com/property/tx/76108/white-settlement/stage-coach-hills-sec-2/8144-tumbleweed-trail/6883ea9d1d8ef263242db7de/": {
+    "discoveredAt": "2025-07-25T23:20:13.875Z"
+  },
+  "https://www.steavycarter.com/property/tx/75115/desoto/park-place-ph-01/1206-bittersweet-cove/6883ea9d1d8ef263242db7f2/": {
+    "discoveredAt": "2025-07-25T23:20:16.217Z"
+  },
+  "https://www.steavycarter.com/property/tx/75069/mckinney/mcfarland/1305-hobson-avenue/678573af25e378a6b2dfb4d7/": {
+    "discoveredAt": "2025-07-25T23:20:17.732Z"
+  },
+  "https://www.steavycarter.com/property/tx/76020/azle/oak-view-place-add/1002-oakchase-court/6883e5011d8ef263242210b2/": {
+    "discoveredAt": "2025-07-25T23:20:19.356Z"
+  },
+  "https://www.steavycarter.com/property/tx/75407/princeton/tillage-farms-south/6852-bramblewood-drive/6883e5011d8ef26324221080/": {
+    "discoveredAt": "2025-07-25T23:20:22.871Z"
+  },
+  "https://www.steavycarter.com/property/tx/75229/dallas/highland-north-2/3515-ingleside-drive/6883e5011d8ef26324221043/": {
+    "discoveredAt": "2025-07-25T23:20:24.336Z"
+  },
+  "https://www.steavycarter.com/property/tx/75023/plano/park-forest-add-1/1449-big-bend-drive/6883e5011d8ef26324221018/": {
+    "discoveredAt": "2025-07-25T23:20:26.127Z"
+  },
+  "https://www.steavycarter.com/property/tx/75090/sherman/vista-norte-add-ph-one/1705-verdi-lane/6883e5011d8ef2632422102f/": {
+    "discoveredAt": "2025-07-25T23:20:27.220Z"
+  },
+  "https://www.steavycarter.com/property/tx/75002/parker/parker-ranch/5001-keswick-drive/6883e5011d8ef26324221039/": {
+    "discoveredAt": "2025-07-25T23:20:28.477Z"
+  },
+  "https://www.steavycarter.com/property/tx/75013/allen/preserve/1863-audubon-pond-way/6883e5011d8ef26324220fe5/": {
+    "discoveredAt": "2025-07-25T23:20:31.057Z"
+  },
+  "https://www.steavycarter.com/property/tx/76112/fort-worth/woodhaven-cntry-club-estates/704-oakwood-trail/6883e5011d8ef26324221010/": {
+    "discoveredAt": "2025-07-25T23:20:33.354Z"
+  },
+  "https://www.steavycarter.com/property/tx/76031/cleburne/craig-oak-hill/725-fuller-avenue/6883e5011d8ef26324220fbe/": {
+    "discoveredAt": "2025-07-25T23:20:34.691Z"
+  },
+  "https://www.steavycarter.com/property/tx/75020/denison/nolans-j-h-add/707-w-murray-street/6883e5011d8ef26324220fa3/": {
+    "discoveredAt": "2025-07-25T23:20:36.152Z"
+  },
+  "https://www.steavycarter.com/property/tx/76133/fort-worth/southwest-hills-add/5705-waits-avenue/6883e5001d8ef26324220f53/": {
+    "discoveredAt": "2025-07-25T23:20:38.648Z"
+  },
+  "https://www.steavycarter.com/property/tx/76116/fort-worth/ridglea-west-add/4501-marks-place/6883e5001d8ef26324220ec1/": {
+    "discoveredAt": "2025-07-25T23:20:41.531Z"
+  },
+  "https://www.steavycarter.com/property/tx/75243/dallas/jackson-meadows-2nd-sec/9734-trevor-drive/6883e5001d8ef26324220eae/": {
+    "discoveredAt": "2025-07-25T23:20:43.290Z"
+  },
+  "https://www.steavycarter.com/property/tx/75454/melissa/willow-grove-verandas/1705-morningside-drive/6883e5001d8ef26324220e8b/": {
+    "discoveredAt": "2025-07-25T23:20:46.389Z"
+  },
+  "https://www.steavycarter.com/property/tx/75180/balch-springs/pioneer-oaks/3934-cochise-drive/6883e4d61d8ef2632422030e/": {
+    "discoveredAt": "2025-07-25T23:20:49.712Z"
+  },
+  "https://www.steavycarter.com/property/tx/76105/fort-worth/polytechnic-heights-add/3624-avenue-h/6883e4d61d8ef26324220308/": {
+    "discoveredAt": "2025-07-25T23:20:53.283Z"
+  },
+  "https://www.steavycarter.com/property/tx/75407/princeton/abs-0476-william-johnson-survey-tract-57-162/6852-fm-546/6883e4d61d8ef263242202ec/": {
+    "discoveredAt": "2025-07-25T23:20:55.203Z"
+  },
+  "https://www.steavycarter.com/property/tx/75409/anna/camden-parc-in-anna-phase-ii/116-woodland-street/6883e4d61d8ef263242202dd/": {
+    "discoveredAt": "2025-07-25T23:20:57.550Z"
+  },
+  "https://www.steavycarter.com/property/tx/76226/bartonville/bbb-crr/1718-e-jeter-road/6883e4d61d8ef263242202d2/": {
+    "discoveredAt": "2025-07-25T23:20:58.921Z"
+  },
+  "https://www.steavycarter.com/property/tx/76226/lantana/crescent-add-ph-c/1110-central-way/6883e4d61d8ef26324220296/": {
+    "discoveredAt": "2025-07-25T23:21:00.792Z"
+  },
+  "https://www.steavycarter.com/property/tx/75068/little-elm/eldorado-estate-west-ph-1/2601-whispering-trail/6883e4d61d8ef2632422023e/": {
+    "discoveredAt": "2025-07-25T23:21:02.645Z"
+  },
+  "https://www.steavycarter.com/property/tx/76005/arlington/viridian-village-1b/1001-winter-fire-way/6883e4d61d8ef26324220294/": {
+    "discoveredAt": "2025-07-25T23:21:05.162Z"
+  }
+}
