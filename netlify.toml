@@ -1,0 +1,5 @@
+[functions]
+  directory = "netlify/functions"
+
+[functions."generate-hourly-sitemap"]
+  schedule = "0 * * * *" # Runs every hour at minute 0
